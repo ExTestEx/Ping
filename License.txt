@@ -3,11 +3,11 @@ ExTestEx's Private Source License
 
         All Rights Reserved,Nobody is allowed to use the source,You are not allow to Decompile the source or edit any
         of the Source,This License is PRIVATE and can be only by ExTestEx(TM),You may NOT edit my Work OR make profit
-        of ANY of my work,unless ExTestEx has given you permission and you have a VAILD and SECURED RSA Key for the
-        Permission,All Permissions come with an RSA Key.
-        If you forgot your RSA Key,You MUST Verify yourself as an Devloper,or has Permission to access this Source,
-        or License,People who has Permission will have 3 RSA Keys,Permission Of access and RSA Personal,and Devs will
-        have 2 RSA Keys Also,Dev. RSA Of ACCESS and RSA Personal,Same with both,You may not delete the META-INF File,
+        of ANY of my work,unless ExTestEx has given you permission and you have a VAILD and SECURED MeHasPerm Key for the
+        Permission,All Permissions come with an MeHasPerm Key.
+        If you forgot your MeHasPerm Key,You MUST Verify yourself as an Devloper,or has Permission to access this Source,
+        or License,People who has Permission will have 3 MeHasPerm Key permissions of access.
+        Devs will have MeHasPerms keys One for each Job. DO NOT DELETE META-INF,
         or it will be Illegal,Be aware you might get Sued by doing this.
 
 
