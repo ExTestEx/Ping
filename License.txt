@@ -9,3 +9,28 @@ ExTestEx's Private Source License
         or License,People who has Permission will have 3 RSA Keys,Permission Of access and RSA Personal,and Devs will
         have 2 RSA Keys Also,Dev. RSA Of ACCESS and RSA Personal,Same with both,You may not delete the META-INF File,
         or it will be Illegal,Be aware you might get Sued by doing this.
+
+
+
+
+        License is protected by ExTestEx's Core License,Which Protects all ExTestEx's License.
+
+        Q&A
+       
+        Why is this Protected -_-: tiny.cc/PAIN
+
+        This Plugin Sucks: Its an Basic Plugin.
+
+        I am from PMC,I am send here by an Administrator: Nope,To bad.
+
+        I GOT AN QUESTION!: Well,use the Pull Requests >.>
+
+        You are so slow: I know i am because i can't go helping 10 people at an time,Give me some time.
+
+        Why did you send me to tiny.cc/PAIN: Because you "Never read the License".
+
+        Your Plugin is removed by DevBukkit Staffs: Then im not starting it again.
+
+        I am an DevBukkit/Staff on Bukkit/CURSE...(More Sentence): Well,Give me proof.
+
+        WHY THIS NO WORKING?: You made an Error,Duh.
